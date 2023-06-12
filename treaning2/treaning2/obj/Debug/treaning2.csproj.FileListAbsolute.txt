@@ -1,0 +1,12 @@
+E:\Users\parsinr\source\repos\treaning2\treaning2\bin\Debug\treaning2.exe.config
+E:\Users\parsinr\source\repos\treaning2\treaning2\bin\Debug\treaning2.exe
+E:\Users\parsinr\source\repos\treaning2\treaning2\bin\Debug\treaning2.pdb
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.csproj.AssemblyReference.cache
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.csproj.SuggestedBindingRedirects.cache
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.Form1.resources
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.Properties.Resources.resources
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.csproj.GenerateResource.cache
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.csproj.CoreCompileInputs.cache
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.exe
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.pdb
+E:\Users\parsinr\source\repos\treaning2\treaning2\obj\Debug\treaning2.Main.resources
